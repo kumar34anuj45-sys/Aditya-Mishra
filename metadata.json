@@ -1,0 +1,5 @@
+{
+  "name": "National English School Management",
+  "description": "A comprehensive school management system for National English School (PG to 8th) featuring student admission, fee collection with receipt printing, and transport management.",
+  "requestFramePermissions": []
+}
